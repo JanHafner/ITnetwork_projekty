@@ -1,0 +1,58 @@
+/*  _____ _______         _                      _
+ * |_   _|__   __|       | |                    | |
+ *   | |    | |_ __   ___| |___      _____  _ __| | __  ___ ____
+ *   | |    | | '_ \ / _ \ __\ \ /\ / / _ \| '__| |/ / / __|_  /
+ *  _| |_   | | | | |  __/ |_ \ V  V / (_) | |  |   < | (__ / /
+ * |_____|  |_|_| |_|\___|\__| \_/\_/ \___/|_|  |_|\_(_)___/___|
+ *                                _
+ *              ___ ___ ___ _____|_|_ _ _____
+ *             | . |  _| -_|     | | | |     |  LICENCE
+ *             |  _|_| |___|_|_|_|_|___|_|_|_|
+ *             |_|
+ *
+ * IT ZPRAVODAJSTVÍ  <>  PROGRAMOVÁNÍ  <>  HW A SW  <>  KOMUNITA
+ *
+ * Tento zdrojový kód je součástí výukových seriálů na
+ * IT sociální síti WWW.ITNETWORK.CZ
+ *
+ * Kód spadá pod licenci prémiového obsahu a vznikl díky podpoře
+ * našich členů. Je určen pouze pro osobní užití a nesmí být šířen.
+ * Více informací na http://www.itnetwork.cz/licence
+ */
+
+.bg-park {
+    background: url("images/park.jpg") no-repeat center;
+    background-size: cover;
+    min-height: 300px;
+}
+
+.pozadi {
+    background: rgba(81, 81, 81, 0.9);
+}
+
+.dropdown-text {
+    color: #f2c307;
+    background: rgba(81, 81, 81, 0.9);
+}
+
+.dropdown-text:hover {
+    background: rgba(61, 61, 61, 0.9);
+    color: #f2c307;
+}
+
+.navbar-yellow .navbar-nav .active>.nav-link {
+    color:#f2c307;
+}
+
+.navbar-yellow .navbar-toggler {
+    border-color: #f2c307;
+}
+
+.navbar-yellow .navbar-toggler-icon {
+    background-image:url("data:image/svg+xml,%3csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3e%3cpath stroke='rgba(242, 195, 7, 0.9)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+
+
+
+
+
